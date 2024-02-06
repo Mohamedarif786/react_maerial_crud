@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "mohamed arif",
+      "email": "arifmohamed.techzar@gmail.com",
+      "phone_number": "9087617862",
+      "address": "kannagi street alangudi"
+    },
+    {
+      "id": "d0c7",
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone_number": "9087617862",
+      "address": "test address"
+    }
+  ]
+}
